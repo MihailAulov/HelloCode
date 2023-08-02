@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Обучение\C#\Examples\Example007_Victory\bin\Debug\net6.0\Example007_Victory.exe
+C:\Users\User\Desktop\Обучение\C#\Examples\Example007_Victory\bin\Debug\net6.0\Example007_Victory.deps.json
+C:\Users\User\Desktop\Обучение\C#\Examples\Example007_Victory\bin\Debug\net6.0\Example007_Victory.runtimeconfig.json
+C:\Users\User\Desktop\Обучение\C#\Examples\Example007_Victory\bin\Debug\net6.0\Example007_Victory.dll
+C:\Users\User\Desktop\Обучение\C#\Examples\Example007_Victory\bin\Debug\net6.0\Example007_Victory.pdb
+C:\Users\User\Desktop\Обучение\C#\Examples\Example007_Victory\obj\Debug\net6.0\Example007_Victory.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Обучение\C#\Examples\Example007_Victory\obj\Debug\net6.0\Example007_Victory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Обучение\C#\Examples\Example007_Victory\obj\Debug\net6.0\Example007_Victory.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Обучение\C#\Examples\Example007_Victory\obj\Debug\net6.0\Example007_Victory.AssemblyInfo.cs
+C:\Users\User\Desktop\Обучение\C#\Examples\Example007_Victory\obj\Debug\net6.0\Example007_Victory.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Обучение\C#\Examples\Example007_Victory\obj\Debug\net6.0\Example007_Victory.dll
+C:\Users\User\Desktop\Обучение\C#\Examples\Example007_Victory\obj\Debug\net6.0\refint\Example007_Victory.dll
+C:\Users\User\Desktop\Обучение\C#\Examples\Example007_Victory\obj\Debug\net6.0\Example007_Victory.pdb
+C:\Users\User\Desktop\Обучение\C#\Examples\Example007_Victory\obj\Debug\net6.0\Example007_Victory.genruntimeconfig.cache
+C:\Users\User\Desktop\Обучение\C#\Examples\Example007_Victory\obj\Debug\net6.0\ref\Example007_Victory.dll
