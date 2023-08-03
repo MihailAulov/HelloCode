@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Examples010_MethodArray\\Examples010_MethodArray.csproj": {}
+    "c:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Examples010_MethodArray\\Examples010_MethodArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Examples010_MethodArray\\Examples010_MethodArray.csproj": {
+    "c:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Examples010_MethodArray\\Examples010_MethodArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Examples010_MethodArray\\Examples010_MethodArray.csproj",
+        "projectUniqueName": "c:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Examples010_MethodArray\\Examples010_MethodArray.csproj",
         "projectName": "Examples010_MethodArray",
-        "projectPath": "C:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Examples010_MethodArray\\Examples010_MethodArray.csproj",
+        "projectPath": "c:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Examples010_MethodArray\\Examples010_MethodArray.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Examples010_MethodArray\\obj\\",
+        "outputPath": "c:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Examples010_MethodArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

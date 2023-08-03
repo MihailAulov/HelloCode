@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Example6_Base\\Example6_Base.csproj": {}
+    "c:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Example6_Base\\Example6_Base.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Example6_Base\\Example6_Base.csproj": {
+    "c:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Example6_Base\\Example6_Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Example6_Base\\Example6_Base.csproj",
+        "projectUniqueName": "c:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Example6_Base\\Example6_Base.csproj",
         "projectName": "Example6_Base",
-        "projectPath": "C:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Example6_Base\\Example6_Base.csproj",
+        "projectPath": "c:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Example6_Base\\Example6_Base.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Example6_Base\\obj\\",
+        "outputPath": "c:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Example6_Base\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
