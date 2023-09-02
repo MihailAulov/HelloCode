@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Обучение\C#\Examples\Examples015_Practika_4\bin\Debug\net6.0\Examples015_Practika_4.exe
+C:\Users\User\Desktop\Обучение\C#\Examples\Examples015_Practika_4\bin\Debug\net6.0\Examples015_Practika_4.deps.json
+C:\Users\User\Desktop\Обучение\C#\Examples\Examples015_Practika_4\bin\Debug\net6.0\Examples015_Practika_4.runtimeconfig.json
+C:\Users\User\Desktop\Обучение\C#\Examples\Examples015_Practika_4\bin\Debug\net6.0\Examples015_Practika_4.dll
+C:\Users\User\Desktop\Обучение\C#\Examples\Examples015_Practika_4\bin\Debug\net6.0\Examples015_Practika_4.pdb
+C:\Users\User\Desktop\Обучение\C#\Examples\Examples015_Practika_4\obj\Debug\net6.0\Examples015_Practika_4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Обучение\C#\Examples\Examples015_Practika_4\obj\Debug\net6.0\Examples015_Practika_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Обучение\C#\Examples\Examples015_Practika_4\obj\Debug\net6.0\Examples015_Practika_4.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Обучение\C#\Examples\Examples015_Practika_4\obj\Debug\net6.0\Examples015_Practika_4.AssemblyInfo.cs
+C:\Users\User\Desktop\Обучение\C#\Examples\Examples015_Practika_4\obj\Debug\net6.0\Examples015_Practika_4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Обучение\C#\Examples\Examples015_Practika_4\obj\Debug\net6.0\Examples015_Practika_4.dll
+C:\Users\User\Desktop\Обучение\C#\Examples\Examples015_Practika_4\obj\Debug\net6.0\refint\Examples015_Practika_4.dll
+C:\Users\User\Desktop\Обучение\C#\Examples\Examples015_Practika_4\obj\Debug\net6.0\Examples015_Practika_4.pdb
+C:\Users\User\Desktop\Обучение\C#\Examples\Examples015_Practika_4\obj\Debug\net6.0\Examples015_Practika_4.genruntimeconfig.cache
+C:\Users\User\Desktop\Обучение\C#\Examples\Examples015_Practika_4\obj\Debug\net6.0\ref\Examples015_Practika_4.dll
