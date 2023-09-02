@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Example5_ConditionIfElse\\Example5_ConditionIfElse.csproj",
+      "projectUniqueName": "c:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Example5_ConditionIfElse\\Example5_ConditionIfElse.csproj",
       "projectName": "Example5_ConditionIfElse",
-      "projectPath": "C:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Example5_ConditionIfElse\\Example5_ConditionIfElse.csproj",
+      "projectPath": "c:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Example5_ConditionIfElse\\Example5_ConditionIfElse.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Example5_ConditionIfElse\\obj\\",
+      "outputPath": "c:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Example5_ConditionIfElse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
       }
     }
   }

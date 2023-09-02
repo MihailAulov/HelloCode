@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Examples009_IntroArray\\Examples009_IntroArray.csproj",
+      "projectUniqueName": "c:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Examples009_IntroArray\\Examples009_IntroArray.csproj",
       "projectName": "Examples009_IntroArray",
-      "projectPath": "C:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Examples009_IntroArray\\Examples009_IntroArray.csproj",
+      "projectPath": "c:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Examples009_IntroArray\\Examples009_IntroArray.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Examples009_IntroArray\\obj\\",
+      "outputPath": "c:\\Users\\User\\Desktop\\Обучение\\C#\\Examples\\Examples009_IntroArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
       }
     }
   }
