@@ -33,7 +33,7 @@ var persons = new List <Person> {
 };
 
 System.Console.WriteLine(persons.Where(p => p.Id == 2).FirstOrDefault().Name);
-
+System.Console.WriteLine(persons[1].Name);
 public class Person
 {
     public int Id { get; set;}
