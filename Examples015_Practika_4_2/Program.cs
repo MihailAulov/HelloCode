@@ -5,6 +5,7 @@ PrintArray(GenerateArray(10));
 int[] GenerateArray(int lenght)
 {
     int[] result = new int[lenght];
+
     for (int i = 0; i < result.Length; i++)
     {
         result[i] = new Random().Next(0, 2);
@@ -15,7 +16,7 @@ int[] GenerateArray(int lenght)
 
 void PrintArray(int[] array)
 {
-    foreach (int i in array) // перебирает непосредственно значение элементов мвссива
+    foreach (int i in array) // перебирает непосредственно значение элементов массива
     {
         Console.Write($"{i} ");
     }
