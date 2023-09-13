@@ -19,7 +19,7 @@ bool IsTriangle(int stA, int stB, int stC)
 System.Console.WriteLine(isTriangle(1, 1, 9)); */ 
 
 
-// Углубленое изучение
+/// Работа с классом List
 
 var persons = new List <Person> {
     new Person { 
